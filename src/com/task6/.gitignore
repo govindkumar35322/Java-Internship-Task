@@ -1,0 +1,10 @@
+
+# Ignore Eclipse project files
+.classpath
+.project
+.settings/
+bin/
+
+# Ignore Eclipse metadata folder
+wbp-meta/
+
