@@ -1,0 +1,50 @@
+EASY|Which language is known as the 'mother of all languages'?|A. C|B. Java|C. Python|D. Assembly|A
+EASY|Which keyword is used to inherit a class in Java?|A. super|B. extends|C. implements|D. inherit|B
+MEDIUM|Which data structure uses FIFO order?|A. Stack|B. Queue|C. Array|D. Tree|B
+HARD|What is the time complexity of QuickSort in worst case?|A. O(n)|B. O(n log n)|C. O(n^2)|D. O(log n)|C
+EASY|Which company developed Java?|A. Sun Microsystems|B. Microsoft|C. IBM|D. Google|A
+EASY|Which symbol is used to terminate a statement in Java?|A. :|B. ;|C. .|D. ,|B
+EASY|Which data type is used to store a single character in Java?|A. char|B. String|C. int|D. boolean|A
+EASY|Which operator is used to add two numbers in Java?|A. +|B. -|C. *|D. /|A
+EASY|Java is a ___ language.|A. Compiled|B. Interpreted|C. Both|D. None|C
+EASY|Which method is the entry point of a Java program?|A. start()|B. run()|C. main()|D. execute()|C
+EASY|Which keyword is used to define a constant in Java?|A. const|B. final|C. static|D. define|B
+EASY|Which loop is guaranteed to execute at least once?|A. for|B. while|C. do-while|D. foreach|C
+EASY|Which is not a Java primitive type?|A. int|B. float|C. String|D. double|C
+EASY|Which keyword is used to exit a loop?|A. stop|B. exit|C. break|D. return|C
+EASY|Which function is used to print in Java?|A. System.out.print()|B. cout|C. printf|D. print()|A
+EASY|Which symbol is used for single-line comments in Java?|A. //|B. /*|C. #|D. --|A
+EASY|Which Java version introduced lambdas?|A. Java 6|B. Java 7|C. Java 8|D. Java 9|C
+EASY|Which collection class stores unique elements?|A. List|B. Set|C. Map|D. Queue|B
+EASY|Which keyword is used to create an object?|A. new|B. create|C. init|D. make|A
+EASY|What is the extension of Java bytecode files?|A. .java|B. .class|C. .jar|D. .exe|B
+EASY|Which package contains Scanner class?|A. java.util|B. java.io|C. java.lang|D. java.sql|A
+EASY|Which access modifier allows access only within the same package?|A. public|B. private|C. protected|D. default|D
+MEDIUM|Which data structure uses FIFO order?|A. Stack|B. Queue|C. Array|D. Tree|B
+MEDIUM|Which sorting algorithm has O(n^2) average time complexity?|A. QuickSort|B. MergeSort|C. BubbleSort|D. HeapSort|C
+MEDIUM|Which collection allows duplicate elements in Java?|A. Set|B. Map|C. List|D. None|C
+MEDIUM|Which keyword is used for exception handling?|A. try|B. catch|C. throw|D. All of these|D
+MEDIUM|Which interface does java.util.HashMap implement?|A. List|B. Map|C. Set|D. Collection|B
+MEDIUM|Which class is immutable in Java?|A. String|B. StringBuilder|C. StringBuffer|D. ArrayList|A
+MEDIUM|Which keyword prevents method overriding?|A. static|B. final|C. abstract|D. private|B
+MEDIUM|Which Java collection is synchronized?|A. HashMap|B. Vector|C. ArrayList|D. HashSet|B
+MEDIUM|Which thread method is used to pause execution?|A. stop()|B. sleep()|C. wait()|D. suspend()|B
+MEDIUM|Which is the default value of a boolean variable in Java?|A. 0|B. true|C. false|D. null|C
+MEDIUM|Which operator is used for logical AND?|A. &&|B. &|C. AND|D. and|A
+MEDIUM|Which file stores compiled Java bytecode?|A. .jar|B. .class|C. .java|D. .exe|B
+MEDIUM|Which keyword is used to define a subclass constructor call?|A. this|B. super|C. sub|D. call|B
+MEDIUM|Which method is called when an object is created in Java?|A. constructor|B. create()|C. init()|D. main()|A
+MEDIUM|Which algorithm is used by Collections.sort() method internally for objects?|A. QuickSort|B. MergeSort|C. TimSort|D. HeapSort|C
+HARD|What is the time complexity of QuickSort in worst case?|A. O(n)|B. O(n log n)|C. O(n^2)|D. O(log n)|C
+HARD|Which garbage collection algorithm is default in Java 11?|A. CMS|B. G1|C. ZGC|D. Parallel GC|B
+HARD|What is the maximum value of an int in Java?|A. 2^15-1|B. 2^31-1|C. 2^63-1|D. 2^8-1|B
+HARD|Which class in Java is used for high-precision arithmetic?|A. BigInteger|B. Math|C. Double|D. Decimal|A
+HARD|Which design pattern is used in Java's Runtime class?|A. Singleton|B. Factory|C. Builder|D. Prototype|A
+HARD|What is the space complexity of DFS in worst case?|A. O(V)|B. O(E)|C. O(V+E)|D. O(1)|A
+HARD|Which annotation marks a method as a test in JUnit 5?|A. @Test|B. @Testing|C. @Run|D. @Case|A
+HARD|Which Java version introduced the module system?|A. Java 7|B. Java 8|C. Java 9|D. Java 10|C
+HARD|Which lock is used in java.util.concurrent.locks package for reentrant behavior?|A. ReadWriteLock|B. ReentrantLock|C. SpinLock|D. MonitorLock|B
+HARD|What is the default initial capacity of HashMap in Java 8?|A. 8|B. 16|C. 32|D. 64|B
+HARD|Which algorithm does ConcurrentHashMap use for thread safety?|A. Synchronization|B. Segmented locking|C. CopyOnWrite|D. Atomic ops|B
+HARD|Which keyword is used for creating anonymous inner classes?|A. new|B. anonymous|C. create|D. inner|A
+HARD|Which Java feature allows methods to have the same name but different parameters?|A. Overloading|B. Overriding|C. Overwriting|D. Overlinking|A
